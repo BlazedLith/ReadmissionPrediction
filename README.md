@@ -101,7 +101,7 @@ The Predict page supports both single-patient input and batch CSV upload. A temp
  
 ## Live App
  
-Deployed at: `[LINK](https://readmissionprediction.streamlit.app/)`
+Deployed at: `https://readmissionprediction.streamlit.app/`
  
 ## References
  
